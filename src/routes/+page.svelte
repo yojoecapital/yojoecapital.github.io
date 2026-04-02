@@ -58,7 +58,7 @@
                 <strong>Hi, I'm Yousef.</strong>
                 <p>
                     I'm a Computer Science graduate from Illinois Institute of Technology and I 
-                    <TypeWriter words={["make web apps.", "build video games.", "make animations.", "do cool things.", "pray for hope. 🇵🇸"]}/>
+                    <TypeWriter words={["make web apps.", "build video games.", "make animations.", "pray for hope."]}/>
                 </p>
             </div>
         </div>
